@@ -1,0 +1,19 @@
+{
+  "name": "aws-ses-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "aws",
+    "ses"
+  ],
+  "author": "CrazyOptimist<hey@crazyoptimist.net>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.936.0",
+    "dotenv": "^10.0.0"
+  }
+}
